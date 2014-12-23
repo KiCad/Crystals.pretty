@@ -1,12 +1,12 @@
-(module Crystal_HC35-U_RevA_09Aug2010 (layer F.Cu)
+(module Crystal_HC35-U (layer F.Cu)
   (at 0 0)
   (descr "Crystal, Quarz, HC35/U,")
   (tags "Crystal, Quarz, HC35/U,")
-  (fp_text reference XT (at 0 -1.27) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference Crystal_HC35-U (at 0 -1.27) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Crystal_HC35-U_RevA_09Aug2010 (at 0.09906 7.35076) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at 0.09906 7.35076) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 2.90068 -3.50012) (end 3.40106 -4.09956) (layer F.SilkS) (width 0.15))
   (fp_line (start 3.40106 -4.09956) (end 4.0005 -3.40106) (layer F.SilkS) (width 0.15))

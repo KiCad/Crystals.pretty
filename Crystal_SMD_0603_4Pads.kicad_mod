@@ -1,13 +1,13 @@
-(module Crystal_SMD_0603_4Pads_RevA_09Aug2010 (layer F.Cu)
+(module Crystal_SMD_0603_4Pads (layer F.Cu)
   (at 0 0)
   (descr "Crystal, Quarz, SMD, 0603, 4 Pads,")
   (tags "Crystal, Quarz, SMD, 0603, 4 Pads,")
   (attr smd)
-  (fp_text reference XT (at 0 -3.81) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference Crystal_SMD_0603_4Pads (at 0 -3.81) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Crystal_SMD_0603_4Pads_RevA_09Aug2010 (at 0 3.81) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at 0 3.81) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_circle (center 0 0) (end 0.50038 0) (layer F.Adhes) (width 0.381))
   (fp_circle (center 0 0) (end 0.14986 0) (layer F.Adhes) (width 0.381))

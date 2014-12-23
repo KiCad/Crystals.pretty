@@ -1,12 +1,12 @@
-(module Crystal_Round_Vertical_3mm_BigPad_RevA_25Apr2012 (layer F.Cu)
+(module Crystal_Round_Vertical_3mm_BigPad (layer F.Cu)
   (at 0 0)
   (descr "Crystal, Quarz, Rundgehaeuse, round, vertical, stehend, Uhrenquarz, Diam. 3mm, big pad,")
   (tags "Crystal, Quarz, Rundgehaeuse, round, vertical, stehend, Uhrenquarz, Diam. 3mm, big pad,")
-  (fp_text reference XT (at 0 -3.81) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference Crystal_Round_Vertical_3mm_BigPad (at 0 -3.81) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Crystal_Round_Vertical_3mm_BigPad_RevA_25Apr2012 (at 0 3.81) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at 0 3.81) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 1.04902 1.15062) (end 1.19888 1.00076) (layer F.SilkS) (width 0.15))
   (fp_line (start -0.89916 -1.24968) (end -1.15062 -1.00076) (layer F.SilkS) (width 0.15))

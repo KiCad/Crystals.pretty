@@ -1,12 +1,12 @@
-(module Crystal_HC49-U_Vertical_3Pin_RevA_09Aug2010 (layer F.Cu)
+(module Crystal_HC49-U_Vertical_3Pin (layer F.Cu)
   (at 0 0)
   (descr "Crystal, Quarz, HC49/U, vertical, stehend, 3 Pin,")
   (tags "Crystal, Quarz, HC49/U, vertical, stehend, 3 Pin,")
-  (fp_text reference XT (at 0 -3.81) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference Crystal_HC49-U_Vertical_3Pin (at 0 -3.81) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Crystal_HC49-U_Vertical_3Pin_RevA_09Aug2010 (at 0 3.81) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at 0 3.81) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 4.699 -1.00076) (end 4.89966 -0.59944) (layer F.SilkS) (width 0.15))
   (fp_line (start 4.89966 -0.59944) (end 5.00126 0) (layer F.SilkS) (width 0.15))
