@@ -2,10 +2,10 @@
   (at 0 0)
   (descr "Crystal, Quarz, HC52/U, vertical, stehend, 3 Pin,")
   (tags "Crystal, Quarz, HC52/U, vertical, stehend, 3 Pin,")
-  (fp_text reference Crystal_HC52-U_Vertical_3Pin (at 0 -3.81) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -3.81) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 3.81) (layer F.SilkS) hide
+  (fp_text value Crystal_HC52-U_Vertical_3Pin (at 0 3.81) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 1.4605 -1.19126) (end -1.50114 -1.19126) (layer F.SilkS) (width 0.15))
