@@ -12,8 +12,8 @@
   (fp_line (start -3.6 2.2) (end 3.6 2.2) (layer F.CrtYd) (width 0.05))
   (fp_line (start -3.6 -2.2) (end -3.6 2.2) (layer F.CrtYd) (width 0.05))
   (fp_line (start 3.6 -2.2) (end -3.6 -2.2) (layer F.CrtYd) (width 0.05))
-  (fp_line (start 2.6 1.7) (end -1.7 1.7) (layer F.SilkS) (width 0.15))
-  (fp_line (start -2.65 -1.7) (end 2.6 -1.7) (layer F.SilkS) (width 0.15))
+  (fp_line (start 2.7 1.7) (end -2.5 1.7) (layer F.SilkS) (width 0.15))
+  (fp_line (start -2.5 -1.7) (end 2.5 -1.7) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -2.05 0) (size 2 2.4) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.05 0) (size 2 2.4) (layers F.Cu F.Paste F.Mask))
   (model Crystals.3dshapes/Crystal_SMD_5032_2Pads.wrl
