@@ -1,4 +1,4 @@
-(module Crystals:Crystal_SMD_7050_4Pads (layer F.Cu) (tedit 57404CCC)
+(module Crystal_SMD_7050_4Pads (layer F.Cu) (tedit 57404CCC)
   (descr "Ceramic SMD crystal, 7.0x5.0mm, 4 Pads")
   (tags "crystal oscillator quartz SMD SMT 7050")
   (attr smd)

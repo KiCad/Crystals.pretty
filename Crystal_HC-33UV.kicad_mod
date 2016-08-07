@@ -1,4 +1,4 @@
-(module HC-33UV (layer F.Cu) (tedit 5741B0A5)
+(module Crystal_HC-33UV (layer F.Cu) (tedit 5741B0A5)
   (descr "Quartz boitier HC-33U Vertical")
   (tags "QUARTZ DEV")
   (fp_text reference REF** (at 0 -5) (layer F.SilkS)
