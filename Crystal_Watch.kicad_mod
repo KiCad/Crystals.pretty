@@ -12,8 +12,8 @@
   (fp_line (start -1.905 10.16) (end -1.905 1.905) (layer F.SilkS) (width 0.15))
   (fp_line (start -1.27 0) (end -1.27 1.905) (layer F.SilkS) (width 0.15))
   (fp_line (start 1.27 0) (end 1.27 1.905) (layer F.SilkS) (width 0.15))
-  (pad 1 thru_hole circle (at -1.27 0) (size 1.27 1.27) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
-  (pad 2 thru_hole circle (at 1.27 0) (size 1.27 1.27) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole circle (at -1.27 0) (size 1.27 1.27) (drill 0.8128) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 1.27 0) (size 1.27 1.27) (drill 0.8128) (layers *.Cu *.Mask))
   (model Crystals.3dshapes/Crystal_Watch.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
