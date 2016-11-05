@@ -16,8 +16,8 @@
   (fp_line (start -6.985 -1.27) (end -6.985 1.27) (layer F.SilkS) (width 0.15))
   (fp_line (start -5.715 2.54) (end 5.715 2.54) (layer F.SilkS) (width 0.15))
   (fp_line (start 6.985 1.27) (end 6.985 -1.27) (layer F.SilkS) (width 0.15))
-  (pad 1 thru_hole circle (at -2.54 0) (size 1.778 1.778) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
-  (pad 2 thru_hole circle (at 2.54 0) (size 1.778 1.778) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole circle (at -2.54 0) (size 1.778 1.778) (drill 0.8128) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 2.54 0) (size 1.778 1.778) (drill 0.8128) (layers *.Cu *.Mask))
   (model Crystals.3dshapes/HC-18UV.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))

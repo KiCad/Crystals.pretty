@@ -17,8 +17,8 @@
   (fp_arc (start 10.414 0) (end 10.287 -3.683) (angle 91.97493401) (layer F.SilkS) (width 0.15))
   (fp_arc (start -0.254 0) (end -0.254 3.683) (angle 90) (layer F.SilkS) (width 0.15))
   (fp_arc (start -0.254 0) (end -3.937 0) (angle 90) (layer F.SilkS) (width 0.15))
-  (pad 1 thru_hole circle (at 0 0) (size 2.032 2.032) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
-  (pad 2 thru_hole circle (at 10.16 0) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole circle (at 0 0) (size 2.032 2.032) (drill 1.016) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 10.16 0) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask))
   (model Crystals.3dshapes/HC-33UV.wrl
     (at (xyz 0.2 0 0))
     (scale (xyz 0.8 0.8 0.8))
