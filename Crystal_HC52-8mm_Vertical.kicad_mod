@@ -1,4 +1,4 @@
-(module Crystal_HC52-8mm_Vertical (layer F.Cu) (tedit 586510E0)
+(module Crystal_HC52-8mm_Vertical (layer F.Cu) (tedit 58651584)
   (descr "Crystal THT HC-52/8mm, http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf")
   (tags "THT crystalHC-49/U")
   (fp_text reference REF** (at 1.9 -2.85) (layer F.SilkS)

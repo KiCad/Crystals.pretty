@@ -1,4 +1,4 @@
-(module Crystal_HC33-U_Vertical (layer F.Cu) (tedit 586510E0)
+(module Crystal_HC33-U_Vertical (layer F.Cu) (tedit 58651584)
   (descr "Crystal THT HC-33/U, http://pdi.bentech-taiwan.com/PDI/GEN20SPEV20HC3320U.pdf")
   (tags "THT crystalHC-33/U")
   (fp_text reference REF** (at 6.17 -5.67) (layer F.SilkS)
