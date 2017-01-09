@@ -1,4 +1,4 @@
-(module Crystal_HC33-U_Horizontal_1EP_style2 (layer F.Cu) (tedit 58651584)
+(module Crystal_HC33-U_Horizontal_1EP_style2 (layer F.Cu) (tedit 5873B675)
   (descr "Crystal THT HC-33/U http://pdi.bentech-taiwan.com/PDI/GEN20SPEV20HC3320U.pdf")
   (fp_text reference REF** (at -5.205 4.725 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

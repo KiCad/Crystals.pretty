@@ -1,4 +1,4 @@
-(module Crystal_HC49-U-3pin_Vertical (layer F.Cu) (tedit 586510E0)
+(module Crystal_HC49-U-3pin_Vertical (layer F.Cu) (tedit 5873B674)
   (descr "Crystal THT HC-49/U, 3pin-version, http://www.raltron.com/products/pdfspecs/crystal_hc_49_45_51.pdf")
   (tags "THT crystalHC-49/U")
   (fp_text reference REF** (at 2.44 -3.525) (layer F.SilkS)

@@ -1,4 +1,4 @@
-(module Resonator_muRata_DSS6-3pin (layer F.Cu) (tedit 586510E0)
+(module Resonator_muRata_DSS6-3pin (layer F.Cu) (tedit 5873B675)
   (descr "Ceramic Resomator/Filter Murata DSS6, http://cdn-reichelt.de/documents/datenblatt/B400/DSN6NC51H.pdf")
   (tags "THT ceramic resonator filter DSS6")
   (fp_text reference REF** (at 2.5 -2.47) (layer F.SilkS)

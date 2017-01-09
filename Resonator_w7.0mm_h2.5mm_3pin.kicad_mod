@@ -1,4 +1,4 @@
-(module Resonator_w7.0mm_h2.5mm_3pin (layer F.Cu) (tedit 586510E0)
+(module Resonator_w7.0mm_h2.5mm_3pin (layer F.Cu) (tedit 5873B675)
   (descr "Ceramic Resomator/Filter 7.0x2.5mm^2")
   (tags "THT ceramic resonator filter")
   (fp_text reference REF** (at 2.5 -2.45) (layer F.SilkS)

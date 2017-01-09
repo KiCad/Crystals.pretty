@@ -1,4 +1,4 @@
-(module Crystal_HC18-U_Vertical (layer F.Cu) (tedit 586510E0)
+(module Crystal_HC18-U_Vertical (layer F.Cu) (tedit 5873B674)
   (descr "Crystal THT HC-18/U, http://5hertz.com/pdfs/04404_D.pdf")
   (tags "THT crystalHC-18/U")
   (fp_text reference REF** (at 2.45 -3.525) (layer F.SilkS)

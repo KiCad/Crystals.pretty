@@ -1,4 +1,4 @@
-(module Crystal_HC50_Vertical (layer F.Cu) (tedit 586510E0)
+(module Crystal_HC50_Vertical (layer F.Cu) (tedit 5873B675)
   (descr "Crystal THT HC-50, http://www.crovencrystals.com/croven_pdf/HC-50_Crystal_Holder_Rev_00.pdf")
   (tags "THT crystalHC-50")
   (fp_text reference REF** (at 2.45 -3.525) (layer F.SilkS)

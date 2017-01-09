@@ -1,4 +1,4 @@
-(module Resonator_muRata_CSTLSxxxX-3pin (layer F.Cu) (tedit 586510E0)
+(module Resonator_muRata_CSTLSxxxX-3pin (layer F.Cu) (tedit 5873B675)
   (descr "Ceramic Resomator/Filter Murata CSTLSxxxX, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/timingdevice/ceralock/p17e.ashx")
   (tags "THT ceramic resonator filter CSTLSxxxX")
   (fp_text reference REF** (at 2.5 -2.7) (layer F.SilkS)
