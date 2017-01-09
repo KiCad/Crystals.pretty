@@ -1,4 +1,4 @@
-(module Crystal_C38-LF_d3.0mm_l8.0mm_Horizontal_1EP_style2 (layer F.Cu) (tedit 5873B674)
+(module Crystal_C38-LF_d3.0mm_l8.0mm_Horizontal_1EP_style2 (layer F.Cu) (tedit 5873C5C8)
   (descr "Crystal THT C38-LF 8.0mm length 3.0mm diameter")
   (tags "['C38-LF']")
   (fp_text reference REF** (at -2.07 2.25 90) (layer F.SilkS)
@@ -34,7 +34,7 @@
   (pad 3 thru_hole rect (at 2.85 7) (size 1.2 1.2) (drill 0.8) (layers *.Cu *.Mask))
   (model Crystals.3dshapes/Crystal_C38-LF_d3.0mm_l8.0mm_Horizontal_1EP_style2.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
+    (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))
   )
 )

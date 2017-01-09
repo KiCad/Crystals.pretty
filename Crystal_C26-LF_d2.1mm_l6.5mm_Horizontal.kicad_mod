@@ -1,4 +1,4 @@
-(module Crystal_C26-LF_d2.1mm_l6.5mm_Horizontal (layer F.Cu) (tedit 5873B674)
+(module Crystal_C26-LF_d2.1mm_l6.5mm_Horizontal (layer F.Cu) (tedit 5873C5C8)
   (descr "Crystal THT C26-LF 6.5mm length 2.06mm diameter")
   (tags "['C26-LF']")
   (fp_text reference REF** (at -1.6 1.75 90) (layer F.SilkS)
@@ -31,7 +31,7 @@
   (pad 2 thru_hole circle (at 1.9 0) (size 1 1) (drill 0.5) (layers *.Cu *.Mask))
   (model Crystals.3dshapes/Crystal_C26-LF_d2.1mm_l6.5mm_Horizontal.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
+    (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))
   )
 )
