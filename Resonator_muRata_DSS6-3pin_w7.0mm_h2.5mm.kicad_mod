@@ -1,10 +1,10 @@
-(module Resonator_muRata_DSN6-3pin (layer F.Cu) (tedit 5873B675)
-  (descr "Ceramic Resomator/Filter Murata DSN6, http://cdn-reichelt.de/documents/datenblatt/B400/DSN6NC51H.pdf")
-  (tags "THT ceramic resonator filter DSN6")
+(module Resonator_muRata_DSS6-3pin_w7.0mm_h2.5mm (layer F.Cu) (tedit 5873B92B)
+  (descr "Ceramic Resomator/Filter Murata DSS6, http://cdn-reichelt.de/documents/datenblatt/B400/DSN6NC51H.pdf, length*width=7.0x2.5mm^2 package, package length=7.0mm, package width=2.5mm, 3 pins")
+  (tags "THT ceramic resonator filter DSS6")
   (fp_text reference REF** (at 2.5 -2.47) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Resonator_muRata_DSN6-3pin (at 2.5 2.47) (layer F.Fab)
+  (fp_text value Resonator_muRata_DSS6-3pin_w7.0mm_h2.5mm (at 2.5 2.47) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_arc (start 0.27 0) (end 0.27 -1.27) (angle -180.0) (layer F.Fab) (width 0.1))
@@ -26,7 +26,7 @@
   (pad 1 thru_hole circle (at 0 0) (size 1.7 1.7) (drill 1.0) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 2.5 0) (size 1.7 1.7) (drill 1.0) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 5 0) (size 1.7 1.7) (drill 1.0) (layers *.Cu *.Mask))
-  (model Crystals.3dshapes/Resonator_muRata_DSN6-3pin.wrl
+  (model Crystals.3dshapes/Resonator_muRata_DSS6-3pin_w7.0mm_h2.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

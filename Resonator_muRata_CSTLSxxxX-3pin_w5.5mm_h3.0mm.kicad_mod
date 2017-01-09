@@ -1,10 +1,10 @@
-(module Resonator_muRata_CSTLSxxxX-3pin (layer F.Cu) (tedit 5873B675)
-  (descr "Ceramic Resomator/Filter Murata CSTLSxxxX, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/timingdevice/ceralock/p17e.ashx")
+(module Resonator_muRata_CSTLSxxxX-3pin_w5.5mm_h3.0mm (layer F.Cu) (tedit 5873B92B)
+  (descr "Ceramic Resomator/Filter Murata CSTLSxxxX, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/timingdevice/ceralock/p17e.ashx, length*width=5.5x3.0mm^2 package, package length=5.5mm, package width=3.0mm, 3 pins")
   (tags "THT ceramic resonator filter CSTLSxxxX")
   (fp_text reference REF** (at 2.5 -2.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Resonator_muRata_CSTLSxxxX-3pin (at 2.5 2.7) (layer F.Fab)
+  (fp_text value Resonator_muRata_CSTLSxxxX-3pin_w5.5mm_h3.0mm (at 2.5 2.7) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_arc (start 1.25 0) (end 1.25 -1.5) (angle -180.0) (layer F.Fab) (width 0.1))
@@ -28,7 +28,7 @@
   (pad 1 thru_hole circle (at 0 0) (size 1.7 1.7) (drill 1.0) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 2.5 0) (size 1.7 1.7) (drill 1.0) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 5 0) (size 1.7 1.7) (drill 1.0) (layers *.Cu *.Mask))
-  (model Crystals.3dshapes/Resonator_muRata_CSTLSxxxX-3pin.wrl
+  (model Crystals.3dshapes/Resonator_muRata_CSTLSxxxX-3pin_w5.5mm_h3.0mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

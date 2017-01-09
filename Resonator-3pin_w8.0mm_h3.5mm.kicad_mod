@@ -1,10 +1,10 @@
-(module Resonator_w8.0mm_h3.5mm_3pin (layer F.Cu) (tedit 5873B675)
-  (descr "Ceramic Resomator/Filter 8.0x3.5mm^2")
+(module Resonator-3pin_w8.0mm_h3.5mm (layer F.Cu) (tedit 5873B92B)
+  (descr "Ceramic Resomator/Filter 8.0x3.5mm^2, length*width=8.0x3.5mm^2 package, package length=8.0mm, package width=3.5mm, 3 pins")
   (tags "THT ceramic resonator filter")
   (fp_text reference REF** (at 2.5 -2.95) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Resonator_w8.0mm_h3.5mm_3pin (at 2.5 2.95) (layer F.Fab)
+  (fp_text value Resonator-3pin_w8.0mm_h3.5mm (at 2.5 2.95) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_arc (start 0.25 0) (end 0.25 -1.75) (angle -180.0) (layer F.Fab) (width 0.1))
@@ -26,7 +26,7 @@
   (pad 1 thru_hole circle (at 0 0) (size 1.7 1.7) (drill 1.0) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 2.5 0) (size 1.7 1.7) (drill 1.0) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 5 0) (size 1.7 1.7) (drill 1.0) (layers *.Cu *.Mask))
-  (model Crystals.3dshapes/Resonator_w8.0mm_h3.5mm_3pin.wrl
+  (model Crystals.3dshapes/Resonator-3pin_w8.0mm_h3.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
