@@ -1,4 +1,4 @@
-(module Crystal_HC52-U_Vertical (layer F.Cu) (tedit 5873B675)
+(module Crystal_HC52-U_Vertical (layer F.Cu) (tedit 58778B03)
   (descr "Crystal THT HC-52/U, http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf")
   (tags "THT crystalHC-52/U")
   (fp_text reference REF** (at 1.9 -2.85) (layer F.SilkS)
@@ -27,7 +27,7 @@
   (pad 2 thru_hole circle (at 3.8 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask))
   (model Crystals.3dshapes/Crystal_HC52-U_Vertical.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
+    (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))
   )
 )
